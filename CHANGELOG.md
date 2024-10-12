@@ -2,6 +2,53 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-10-12)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#1530](https://github.com/stdlib-js/stdlib/issues/1530)
+
+</section>
+
+<!-- /.issues -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`efbff47`](https://github.com/stdlib-js/stdlib/commit/efbff479674b3a3941278a245dedda41baf137a3) - **refactor:** `blas/ext/base/snansumkbn2` according to current project conventions [(#3002)](https://github.com/stdlib-js/stdlib/pull/3002) _(by Gururaj Gurram, Gururaj Gurram, Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Gururaj Gurram
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-28)
