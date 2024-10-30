@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-12)
+## Unreleased (2024-10-30)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fdd3963`](https://github.com/stdlib-js/stdlib/commit/fdd3963096904e999191e354dede1ca59461adc2) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`efbff47`](https://github.com/stdlib-js/stdlib/commit/efbff479674b3a3941278a245dedda41baf137a3) - **refactor:** `blas/ext/base/snansumkbn2` according to current project conventions [(#3002)](https://github.com/stdlib-js/stdlib/pull/3002) _(by Gururaj Gurram, Gururaj Gurram, Philipp Burckhardt)_
 
 </details>
