@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`6a0d6b8`](https://github.com/stdlib-js/stdlib/commit/6a0d6b861f8e2079a501ca4e46a9175440eedb46) - **style:** update to use tabs for indentation _(by Philipp Burckhardt)_
 -   [`fdd3963`](https://github.com/stdlib-js/stdlib/commit/fdd3963096904e999191e354dede1ca59461adc2) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`efbff47`](https://github.com/stdlib-js/stdlib/commit/efbff479674b3a3941278a245dedda41baf137a3) - **refactor:** `blas/ext/base/snansumkbn2` according to current project conventions [(#3002)](https://github.com/stdlib-js/stdlib/pull/3002) _(by Gururaj Gurram, Gururaj Gurram, Philipp Burckhardt)_
