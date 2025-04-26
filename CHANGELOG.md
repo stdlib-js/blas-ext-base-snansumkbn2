@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-04-26)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`3c7589f`](https://github.com/stdlib-js/stdlib/commit/3c7589f373808eba7378584076207250ec04a344) - **test:** add zeros tests _(by Athan Reines)_
 -   [`8bef034`](https://github.com/stdlib-js/stdlib/commit/8bef0343d2b8fc61121bafa7224320804b9e5932) - **feat:** add C `ndarray` API and refactor `blas/ext/base/snansumkbn2` [(#4846)](https://github.com/stdlib-js/stdlib/pull/4846) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
