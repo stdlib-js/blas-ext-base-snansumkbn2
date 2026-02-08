@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import snansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-snansumkbn2@deno/mod.js';
+import snansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-snansumkbn2@v0.3.1-deno/mod.js';
 ```
 
 #### snansumkbn2( N, x, strideX )
@@ -147,7 +147,7 @@ var v = snansumkbn2.ndarray( 4, x, 2, 1 );
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@deno/mod.js';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@deno/mod.js';
 import filledarrayBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-filled-by@deno/mod.js';
-import snansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-snansumkbn2@deno/mod.js';
+import snansumkbn2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-snansumkbn2@v0.3.1-deno/mod.js';
 
 function rand() {
     if ( bernoulli( 0.5 ) < 1 ) {
