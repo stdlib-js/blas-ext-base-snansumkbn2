@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-29)
+## Unreleased (2026-07-30)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`abe2e55`](https://github.com/stdlib-js/stdlib/commit/abe2e550ce8c29d07dc21901e5ba4221f941a300) - **build:** add wasm configurations [(#13771)](https://github.com/stdlib-js/stdlib/pull/13771) _(by Karan Anand, Athan Reines)_
 -   [`e25b196`](https://github.com/stdlib-js/stdlib/commit/e25b196c5ea81c36b71f50dbacfae298f9f06b2f) - **bench:** refactor to use string interpolation in `blas/ext/base/snansumkbn2` [(#10970)](https://github.com/stdlib-js/stdlib/pull/10970) _(by Partha Das)_
 -   [`a2693db`](https://github.com/stdlib-js/stdlib/commit/a2693dbe8cc4423dc5e12c207b0fac9f66440cd2) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/snansumkbn2` [(#10771)](https://github.com/stdlib-js/stdlib/pull/10771) _(by Prajjwal Bajpai)_
 
@@ -25,8 +26,10 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Karan Anand
 -   Partha Das
 -   Prajjwal Bajpai
 
